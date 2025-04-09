@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MursalinWithSemicolon/Your-Book--bests-article-site/static/css/main.20eafb43.css",
+    "main.js": "/MursalinWithSemicolon/Your-Book--bests-article-site/static/js/main.1455ead4.js",
+    "static/js/453.ed3810f9.chunk.js": "/MursalinWithSemicolon/Your-Book--bests-article-site/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/MursalinWithSemicolon/Your-Book--bests-article-site/index.html",
+    "main.20eafb43.css.map": "/MursalinWithSemicolon/Your-Book--bests-article-site/static/css/main.20eafb43.css.map",
+    "main.1455ead4.js.map": "/MursalinWithSemicolon/Your-Book--bests-article-site/static/js/main.1455ead4.js.map",
+    "453.ed3810f9.chunk.js.map": "/MursalinWithSemicolon/Your-Book--bests-article-site/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20eafb43.css",
+    "static/js/main.1455ead4.js"
+  ]
+}
